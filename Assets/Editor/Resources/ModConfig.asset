@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: labyrinth
   title: The Labyrinth
-  description: 'The Labyrinth 1.02
+  description: 'The Labyrinth 1.03
 
     It''s like a maze, only spelt differently.
 
@@ -25,6 +25,6 @@ MonoBehaviour:
 
 
     Manual available here: https://ktane.timwi.de/HTML/The%20Labyrinth.html'
-  version: 1.02
+  version: 1.03
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 164320c7a0e7a4194966d0a456ef7ff1, type: 3}
